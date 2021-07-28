@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on learn new programming languages
+- 🔭 I’m currently working on improve my skills as a Front-End Developer
  
 - 🌱 I’m currently learning Web Development
 
