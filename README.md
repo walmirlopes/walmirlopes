@@ -1,8 +1,11 @@
 ### Hi there 👋
 
+- 📫 Adress: Brazil - SC - Palhoça
 
-- 🔭 I’m currently working on improve my skills as a Front-End Developer
+- 🔭 Focus on HTML / CSS / JAVASCRIPT and WORDPRESS
  
-- 🌱 I’m currently learning Web Development
+- 🌱 Web Developer
 
-- 📫 How to reach me: walmirlopesti@gmail.com
+- 📫 How to contact me: walmirlopesti@gmail.com
+
+- 👋 Open to work.
