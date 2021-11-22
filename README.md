@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 📫 Address: Brazil - SC - Palhoça
+- 📫 Address: Brazil - PR - Curitiba
 
 - 🔭 Focus on HTML / CSS / JAVASCRIPT and WORDPRESS
  
